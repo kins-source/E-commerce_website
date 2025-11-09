@@ -1,7 +1,6 @@
 # 🛒 E-commerce Website
 
 Welcome to the **E-commerce Website** repository!  
-Built with 💻 **JavaScript (52.7%)**, 🌐 **HTML (43.4%)**, and 🎨 **CSS (3.9%)**.
 
 ## 🚀 Overview
 
